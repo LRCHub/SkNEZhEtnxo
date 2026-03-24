@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "ook",
+  "base_artist": "DeNeel",
+  "createdAt": "2026-03-24T10:29:43.628494Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ook als het niet over rozen gaat",
+      "artist": "Nielson",
+      "has_synced": true,
+      "path": "select/01_Ook_als_het_niet_over_rozen_gaat_Nielson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Zo Kan Het Dus Ook",
+      "artist": "Maan",
+      "has_synced": true,
+      "path": "select/02_Zo_Kan_Het_Dus_Ook_Maan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Zo kan Het Dus Ook.",
+      "artist": "Maan",
+      "has_synced": true,
+      "path": "select/03_Zo_kan_Het_Dus_Ook._Maan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ik Ook Van Jou",
+      "artist": "Guus Meeuwis",
+      "has_synced": true,
+      "path": "select/04_Ik_Ook_Van_Jou_Guus_Meeuwis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Zo Kan Het Dus Ook",
+      "artist": "Nielson",
+      "has_synced": true,
+      "path": "select/05_Zo_Kan_Het_Dus_Ook_Nielson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Zo Kan Het Dus Ook",
+      "artist": "23. Nielson",
+      "has_synced": true,
+      "path": "select/06_Zo_Kan_Het_Dus_Ook_23._Nielson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Zo Kan Het Dus Ook",
+      "artist": "Maan",
+      "has_synced": true,
+      "path": "select/07_Zo_Kan_Het_Dus_Ook_Maan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wie Ik Ook Ben",
+      "artist": "BLØF",
+      "has_synced": false,
+      "path": "select/08_Wie_Ik_Ook_Ben_BLØF.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ben Jij Ook Zo Bang",
+      "artist": "Toontje Lager",
+      "has_synced": true,
+      "path": "select/09_Ben_Jij_Ook_Zo_Bang_Toontje_Lager.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ook!",
+      "artist": "Chvrsi feat. Dorcci",
+      "has_synced": true,
+      "path": "select/10_Ook!_Chvrsi_feat._Dorcci.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ook!",
+      "artist": "Chvrsi/Dorcci",
+      "has_synced": true,
+      "path": "select/11_Ook!_Chvrsi_Dorcci.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Zie Jij Het Ook",
+      "artist": "Guus Meeuwis",
+      "has_synced": false,
+      "path": "select/12_Zie_Jij_Het_Ook_Guus_Meeuwis.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hoe Hard Je Ook Rent",
+      "artist": "Jaap Reesema",
+      "has_synced": true,
+      "path": "select/13_Hoe_Hard_Je_Ook_Rent_Jaap_Reesema.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Komt Er Voor Mij Dan Ook Een Dag",
+      "artist": "Frans Duijts",
+      "has_synced": true,
+      "path": "select/14_Komt_Er_Voor_Mij_Dan_Ook_Een_Dag_Frans_Duijts.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ook",
+      "artist": "DeNeel",
+      "has_synced": false,
+      "path": "select/pl_01_ook_DeNeel.txt"
+    }
+  ]
+}
